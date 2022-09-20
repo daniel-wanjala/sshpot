@@ -1,0 +1,4 @@
+{"timestamp": "2022-09-20T17:13:17.716820", "dst_ip": "127.0.0.1", "dst_port": 2222, "src_ip": "127.0.0.1", "user:passwd": "root:1"}
+{"timestamp": "2022-09-20T17:14:26.662686", "dst_ip": "127.0.0.1", "dst_port": 2222, "src_ip": "127.0.0.1", "user:passwd": "root:123"}
+{"timestamp": "2022-09-20T17:14:27.955191", "dst_ip": "127.0.0.1", "dst_port": 2222, "src_ip": "127.0.0.1", "user:passwd": "root:123"}
+{"timestamp": "2022-09-20T17:14:28.648512", "dst_ip": "127.0.0.1", "dst_port": 2222, "src_ip": "127.0.0.1", "user:passwd": "root:123"}
